@@ -1,5 +1,7 @@
 # Python Command Gate for Screaming Frog CLI
 
+![Python Command Gate for Screaming Frog CLI](https://raw.githubusercontent.com/sitebee/sf-command-gate/refs/heads/main/02-before-after-1200x627.png)
+
 Open **one file**, switch options on and off with `#`, and run it. The gate builds, checks and runs
 the Screaming Frog command for you, keeps only the columns you care about, writes a report, and
 tells you what changed since the last crawl.
